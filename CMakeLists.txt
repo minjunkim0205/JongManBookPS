@@ -3,4 +3,4 @@ project(JongManBookPS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(RUN Book/6-2RecursiveCallAndExhaustiveSearch/BOGGLE.cpp)
+add_executable(RUN Book/6-2RecursiveCallAndExhaustiveSearch/PICNIC.cpp)

@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users$ Files/mjk/Coding/Clion/JongManBookPS/cmake-buil
 
 build cmake_object_order_depends_target_RUN: phony || CMakeFiles/RUN.dir
 
-build CMakeFiles/RUN.dir/Book/6-2RecursiveCallAndExhaustiveSearch/BOGGLE.cpp.obj: CXX_COMPILER__RUN_unscanned_Debug C$:/Users$ Files/mjk/Coding/Clion/JongManBookPS/Book/6-2RecursiveCallAndExhaustiveSearch/BOGGLE.cpp || cmake_object_order_depends_target_RUN
-  DEP_FILE = CMakeFiles\RUN.dir\Book\6-2RecursiveCallAndExhaustiveSearch\BOGGLE.cpp.obj.d
+build CMakeFiles/RUN.dir/Book/6-2RecursiveCallAndExhaustiveSearch/PICNIC.cpp.obj: CXX_COMPILER__RUN_unscanned_Debug C$:/Users$ Files/mjk/Coding/Clion/JongManBookPS/Book/6-2RecursiveCallAndExhaustiveSearch/PICNIC.cpp || cmake_object_order_depends_target_RUN
+  DEP_FILE = CMakeFiles\RUN.dir\Book\6-2RecursiveCallAndExhaustiveSearch\PICNIC.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\RUN.dir
   OBJECT_FILE_DIR = CMakeFiles\RUN.dir\Book\6-2RecursiveCallAndExhaustiveSearch
@@ -63,7 +63,7 @@ build CMakeFiles/RUN.dir/Book/6-2RecursiveCallAndExhaustiveSearch/BOGGLE.cpp.obj
 #############################################
 # Link the executable RUN.exe
 
-build RUN.exe: CXX_EXECUTABLE_LINKER__RUN_Debug CMakeFiles/RUN.dir/Book/6-2RecursiveCallAndExhaustiveSearch/BOGGLE.cpp.obj
+build RUN.exe: CXX_EXECUTABLE_LINKER__RUN_Debug CMakeFiles/RUN.dir/Book/6-2RecursiveCallAndExhaustiveSearch/PICNIC.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\RUN.dir
